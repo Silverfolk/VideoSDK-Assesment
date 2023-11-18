@@ -60,7 +60,8 @@ In addition to WebRTC, this project utilizes PeerJS, a library built on top of W
 - WebSocket communication facilitated by PeerJS helps exchange signaling data, including SDP offers, answers, and ICE candidates, between clients.
 - The integration of PeerJS simplifies the overall WebRTC implementation, providing a cleaner and more developer-friendly interface for establishing and managing peer connections.
 
-Feel free to explore the codebase for more details on the integration of WebRTC and PeerJS. If you have any questions or need further assistance, don't hesitate to reach out.
+![VideoSDK](https://github.com/Silverfolk/WatchU/assets/71553152/031dec83-6f6d-423f-b147-4e94f7fb11b9)
+
 
 Result :
 ![3](https://github.com/Silverfolk/WatchU/assets/71553152/2485391c-8b5f-4fbe-8e00-3779592d474a)
