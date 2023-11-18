@@ -10,4 +10,11 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/Silverfolk/VideoSDK-Assesment
 
-Install Dependencies:
+**Install Dependencies:**
+ ```bash
+npm install
+
+**Create Environment Variables:**
+
+Create a .env file in the root directory.
+Add the following keys and replace the placeholder values:
